@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="yzmko-ZAgxiFo-33jOKccGS3-mPiZfXNccPId1P-gEo" />
-
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, ich bin Tim</h1>
 <h3 align="center">Ich bin ein Cyber Security Student aus Deutschland.</h3>
 
