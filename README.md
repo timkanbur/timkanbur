@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, ich bin Tim</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, ich bin Tim</h1>
 <h3 align="center">Ich bin ein Cyber Security Student aus Deutschland.</h3>
 
 ## 🔗 Sprachen, die ich gerade lerne:
@@ -20,3 +20,6 @@
 <a href = "https://www.linkedin.com/in/tim-kanbur"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/tim_k4nbur/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://timkanbur.de/"><img src="https://img.icons8.com/fluency/48/000000/web.png"/></a>
+
+
+![](https://hit.yhype.me/github/profile?user_id=104684239)
